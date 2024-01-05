@@ -1,18 +1,18 @@
 //
-//  SwiftUIView.swift
+//  TitleView.swift
 //  Touchdown
 //
-//  Created by Himindu Kularathne on 2024-01-03.
+//  Created by Himindu Kularathne on 2024-01-05.
 //
 
 import SwiftUI
 
-struct SwiftUIView: View {
+struct TitleView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    SwiftUIView()
+    TitleView()
 }
